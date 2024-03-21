@@ -1,0 +1,1 @@
+# Sistema Gestión de Tienda

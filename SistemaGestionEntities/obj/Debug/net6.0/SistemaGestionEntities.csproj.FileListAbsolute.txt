@@ -1,0 +1,71 @@
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\vcerp\Downloads\CODIGOS\ConsoleApp-Entrega3\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\fernando\Source\Repos\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\Applications\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\sistemas\SistemaGestion-tienda\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\SistemaGestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Argenis Carvajal\Desktop\ProyectoValeria\sistema-gestion-tienda\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
